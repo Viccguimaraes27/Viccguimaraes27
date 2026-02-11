@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Viccguimaraes27/Viccguimaraes27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="
+background-color:#877FCF;
+padding:50px;
+border-radius:40px;
+width:80%;
+color:white;
+font-size:28px;
+font-weight:bold;
+">
 
-Here are some ideas to get you started:
+Hi there! <br><br>
+I'm Victoria, 27y/o and living in Brazil<br>
+Curious mind exploring the world of data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+</div>
+
+<br><br>
+
+<div align="left">
+  <img src="" width="200px"/>
+</div>
