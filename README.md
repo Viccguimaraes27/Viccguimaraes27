@@ -1,25 +1,5 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9999&height=120&section=header"/>
 
-<div style="
-background-color:#877FCF;
-padding:50px;
-border-radius:40px;
-width:80%;
-color:white;
-font-size:28px;
-font-weight:bold;
-">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F97235&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!;Im+Victoria,+27y/o+and+living+in+Brazil;Curious+mind+exploring+the+world+of+data+:%29)](https://git.io/typing-svg)
 
-Hi there! <br><br>
-I'm Victoria, 27y/o and living in Brazil<br>
-Curious mind exploring the world of data
-
-</div>
-
-</div>
-
-<br><br>
-
-<div align="left">
-  <img src="" width="200px"/>
-</div>
+### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
